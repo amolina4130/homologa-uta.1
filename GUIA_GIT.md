@@ -8,7 +8,7 @@
 git init
 git branch -M main
 git add .
-git commit -m "chore: estructura inicial y mockups del Sprint 1"
+git commit -m "chore(repo): estructura inicial y mockups del Sprint 1"
 git remote add origin https://github.com/USUARIO/homologa-uta.git
 git push -u origin main
 git checkout -b develop
